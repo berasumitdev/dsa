@@ -1,4 +1,4 @@
-package loops;
+package lec5;
 
 import java.util.Scanner;
 
